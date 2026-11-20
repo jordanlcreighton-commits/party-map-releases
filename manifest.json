@@ -1,0 +1,19 @@
+{
+ "files": {
+  "PartyMap/App/PartyMap.exe": "7ebd22e5d318ca6d63e1e24fe6bad4fa181270ad0555df31267ac4c00c3b29b1",
+  "PartyMap/App/README.txt": "d876fee001e2b73475c49161de06fd90231520d1bb58b189c3b1800bd7818a5e",
+  "PartyMap/Comms.lua": "3e475fb6865e3d82ffdb7d99d8fa3181526e9b08d4c85650f83b2ce4a35ec0a3",
+  "PartyMap/Core.lua": "6857cc317b81eb34bf24525bca5d82053e1093f677aebaf890555dffa9968705",
+  "PartyMap/Encode.lua": "21832261507be770b5ae5a598e2db8b3428e8b00eb66f261422cf6aa3fe73560",
+  "PartyMap/Markers.lua": "db7c5af7868c534edd654c3bcd773157494cafd3c65400e3418b06a64db45930",
+  "PartyMap/PartyMap.toc": "dec81499b15ebb731b7511695c178f8aace1404b337faa6621882f3a1eb92988"
+ },
+ "notes": "0.16.3: Where to level next? and Recommended quests test the side (Horde/Alliance) themselves: Questie's race test hides every Horde quest for some of Forever's races. Quest heading icons show their zone or dungeon on the map.",
+ "published": "2026-11-20T23:20:05Z",
+ "restartSince": "0.15.0",
+ "stripFormat": 1,
+ "tocSignature": "bd4520be67717a8a05c5004f0e5f718fcfab2b66c22659a26286a30fa89c0c4b",
+ "version": "0.16.3",
+ "zip": "PartyMap.zip",
+ "zipSha256": "573cc1ad1ecacb1a56ea140b355845d955073ddd0bcee6770ebd62ad4bb7a164"
+}
